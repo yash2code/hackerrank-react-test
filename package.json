@@ -6,6 +6,7 @@
     "@material-ui/icons": "^2.0.2",
     "create-react-app": "^1.4.3",
     "eslint": "^5.4.0",
+    "event-stream": "3.3.4",
     "history": "^4.6.3",
     "jest-localstorage-mock": "^2.1.0",
     "prop-types": "^15.6.0",
@@ -17,8 +18,7 @@
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.2.0",
-    "save": "^2.3.1",
-    "event-stream": "3.3.4"
+    "save": "^2.3.1"
   },
   "scripts": {
     "prestart": "npm install",
@@ -33,7 +33,7 @@
     "expect": "^21.2.1",
     "jest-junit-reporter": "^1.1.0",
     "react-test-renderer": "^16.2.0",
-    "sinon": "^6.1.5",
-    "redux-mock-store": "^1.4.0"
+    "redux-mock-store": "^1.4.0",
+    "sinon": "^6.1.5"
   }
 }
